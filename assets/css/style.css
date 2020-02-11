@@ -1,0 +1,30 @@
+.navbar {
+  list-style: none;
+  background-color: black;
+}
+
+.grafico {
+  display: flex;
+}
+
+.navbar {
+  list-style: none;
+  background-color: white;
+  display: block ruby;
+}
+
+.botones {
+  display: flex;
+  margin-left: 1200px;
+  grid-gap: 15px;
+}
+
+.boton1 {
+  background-color: white;
+}
+
+.boton2 {
+  background-color: #00BFFF;
+}
+
+/*# sourceMappingURL=style.css.map */
